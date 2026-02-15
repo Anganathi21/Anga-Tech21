@@ -14,11 +14,12 @@ Small projects that sharpen my analytics and problem-solving skills.
 
 Language And Skills:
 
--Python,SQL and C++
+•Python
+•SQL and C++
 
 Data And Analytics:
 
-Excel and Power BI
+-Excel and Power BI
 
 What I Use Them For:
 

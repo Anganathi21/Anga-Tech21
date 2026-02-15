@@ -5,6 +5,7 @@ I'm Anganathi a data analyst based in South Africa.
 I enjoy turning messy data into clear insights and building things that actually make sense.  
 If there’s data involved, chances are I’m cleaning it, querying it, or exploring it.
 
+
 WHAT I’M CURRENTLY WORKING ON:
 
 -Data cleaniing and exploration.
@@ -15,6 +16,7 @@ WHAT I’M CURRENTLY WORKING ON:
 
 -Small projects that sharpen my analytics and problem-solving skills.
 
+
 LANGUAGE AND SKILLS:
 
 •Python
@@ -23,11 +25,13 @@ LANGUAGE AND SKILLS:
 
 •C++
 
+
 DATA AND ANALYTICS:
 
 •Excel 
 
 •Power BI
+
 
 WHAT I USE THEM FOR:
 
@@ -38,6 +42,7 @@ WHAT I USE THEM FOR:
 •Visualizing insights.
 
 •Building analytic workflows.
+
 
 FUN FACTS:
 

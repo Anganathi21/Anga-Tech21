@@ -12,13 +12,10 @@ What I’m currently working on:
 -Small projects that sharpen my analytics and problem-solving skills.
 
 Language And Skills:
--Python
--SQL
--C++
+-Python,SQL and C++
 
 Data And Analytics:
--Excel
--Power BI
+-Excel and Power BI
 
 What I Use Them For:
 -Data cleaning and transformation.

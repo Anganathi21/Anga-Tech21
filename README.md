@@ -8,7 +8,7 @@ If there’s data involved, chances are I’m cleaning it, querying it, or explo
 
 WHAT I’M CURRENTLY WORKING ON:
 
--Data cleaniing and exploration.
+-Data cleaning and exploration.
 
 -Exploratory Data Analysis (EDA) using python.
 
